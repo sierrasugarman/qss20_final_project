@@ -40,7 +40,3 @@ Script #2
 - **Uppsala Conflict Data Program (UCDP):** [ucdp.uu.se](https://ucdp.uu.se/downloads/) — intrastate conflict data 1989-2024
 - **Quality of Government (QoG) State Religion Dataset:** [gu.se/en/quality-government](https://www.gu.se/en/quality-government) — country-level state religion classifications
 - **Pew Research Center Global Religious Composition:** [pewresearch.org](https://www.pewresearch.org/religion/interactives/religious-composition-by-country-2010-2050/) — country-level religious demographics (2020)
-
-## AI Transcripts
-- ChatGPT: https://chatgpt.com/share/6a238c6d-76c4-83ea-8239-d45458a07e44
-- Claude: https://claude.ai/share/96ecd601-3d4b-4a87-9ad4-71f54159defe
