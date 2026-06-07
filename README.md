@@ -29,11 +29,11 @@ Script #2
 
 **What it does:**
 - Produces a regional bar chart comparing median intrastate conflict deaths by state religion status across four regions
-- Computes Pearson correlations between religion trait scores and log-transformed intrastate conflict deaths among state-religion countries
+- Computes correlations between religion trait scores and log-transformed intrastate conflict deaths among state-religion countries
 - Produces a correlation bar chart visualizing the trait findings
 
 **Output:**
-- `output/final_regions.png` — Regional conflict deaths by state religion type
+- `output/final_regions.png` — Regional conflict deaths by state religion
 - `output/final_traits.png` — Religion trait correlations with intrastate violence
 
 ## Data Sources
